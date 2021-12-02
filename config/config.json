@@ -1,0 +1,7 @@
+{
+    "mongodb":{
+        "url":"mongodb+srv://larabi_24:larabi24@cluster0.qb923.mongodb.net/Sauce?retryWrites=true&w=majority",
+        "useNewUrlParser":true,
+        "useUnifiedTopology":true
+    }
+}
